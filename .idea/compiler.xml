@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="shiro-test" target="1.5" />
-      <module name="shiro1" target="1.5" />
+      <module name="shiro-test" target="8" />
+      <module name="shiro1" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
